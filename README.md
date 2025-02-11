@@ -9,7 +9,7 @@ Currently, I'm a senior at Arizona State University, majoring in Data Science. M
 ## Skills  
 
 - **Programming:** Python, SQL, Java 
-- **Data Science & Machine Learning:** Pandas, NumPy, scikit-learn, TensorFlow  
+- **Data Science & Machine Learning:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
 - **Data Analysis & Visualization:** Matplotlib, Power BI, Excel  
 - **Backend & Cloud:** Git, AWS, Google Cloud, Spring Framework  
 - **Other:** Database management, automation, survey analytics, system performance tuning  
@@ -19,7 +19,7 @@ Currently, I'm a senior at Arizona State University, majoring in Data Science. M
 ## Projects  
 
 ### Predicting Batting Performance Using MLB Player Statistics  
-- Built a **machine learning model** to predict batting average and find influences that affect hitting performance
+- Built a machine learning model to predict batting average and find influences that affect hitting performance
 - Analyzed player stats and historical trends  
 - Improved accuracy through feature engineering and algorithm tuning   
 
