@@ -1,27 +1,23 @@
 # Griffin Snider  
 
-I'm an aspiring data analyst with experience in Python, SQL, and machine learning. I focus on data-driven decision-making, automation, and backend development. I enjoy working with large datasets, predictive modeling, and optimizing performance in software and data pipelines.  
-
-Currently, I'm a senior at Arizona State University, majoring in Data Science. My work spans data analytics, research, software development, and system optimization.  
+Data Science student at Arizona State University with experience in research analytics and software development. I have shown my Python, SQL, and machine learning skills through hands-on projects and professional work. I am looking for opportunities to apply my quantitative analysis and programming expertise to solve business problems
 
 ---
 
 ## Skills  
 
-- **Programming:** Python, SQL, Java 
-- **Data Science & Machine Learning:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch
-- **Data Analysis & Visualization:** Matplotlib, Power BI, Excel  
-- **Backend & Cloud:** Git, AWS, Google Cloud, Spring Framework  
-- **Other:** Database management, automation, survey analytics, system performance tuning  
+- **Programming Languages:** Python, Java, R, SQL
+- **Machine Learning, Data Science & Tools:** TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Git, Excel
+- **Mathematics & Analytics:** Linear Algebra, Calculus, Statistics
 
 ---
 
 ## Projects  
 
 ### Predicting Batting Performance Using MLB Player Statistics  
-- Built a machine learning model to predict batting average and find influences that affect hitting performance
-- Analyzed player stats and historical trends  
-- Improved accuracy through feature engineering and algorithm tuning   
+- Developed machine learning models (Random Forest, KNN) to predict MLB player batting averages using historical data from Lahman's Baseball Database
+- Implemented data preprocessing pipeline, including feature engineering, standardization, and handling of missing values
+- Achieved improved prediction accuracy using a Random Forest model through hyper-parameter tuning and cross-validation
 
 ---
 
