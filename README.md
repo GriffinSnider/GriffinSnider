@@ -1,6 +1,6 @@
 # Griffin Snider  
 
-Data Science student at Arizona State University with experience in research analytics and software development. I have shown my Python, SQL, and machine learning skills through hands-on projects and professional work. I am looking for opportunities to apply my quantitative analysis and programming expertise to solve business problems
+Data professional with 3+ years of experience transforming raw data into actionable insights that drive business decisions. Hold a BS in Data Science with a concentration in Computer Science, and am pursuing an MS in Business Analytics. Proven track record of building automated data pipelines, developing interactive dashboards, and applying advanced analytics and machine learning to solve complex business problems. Skilled in Python, SQL, and Tableau, with a strong ability to bridge technical analysis and strategic decision-making.
 
 ---
 
